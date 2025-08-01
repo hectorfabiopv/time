@@ -1,4 +1,4 @@
-# ⏳ Time — Planificador Inteligente de Rutinas Diarias
+# ⏳ Time — App para Administrar el Tiempo
 
 ![Hecho con Python](https://img.shields.io/badge/Hecho%20con-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Construido con FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi)
